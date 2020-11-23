@@ -5,6 +5,9 @@
 
 ## 功能说明 Features 
 
+请打賞我一杯咖啡： 
+Paypal：  https://www.paypal.com/paypalme/uaa2020
+
 1. 系统要求：centos7+/debian9+/ubuntu16.04+
 2. 支持 trojan， trojan-go 和v2ray 的 安装 升级 完全卸载
 3. 支持 trojan 或 trojan-go 与 v2ray 共存
